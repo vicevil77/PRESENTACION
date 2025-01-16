@@ -9,7 +9,7 @@
 ## 🧑‍💻 Sobre mí
 
 - 💻 **Sistema operativo principal:** Arch Linux personalizado y windows, segun las necesidades del sistema para auditar.
-- 🎓 **Formacion: ** Grado Universitario en Ciencias Policiales por el Centro universitario de Formación de la Policía Nacional de Ávila
+- 🎓 **Formacion:** Grado Universitario en Ciencias Policiales por el Centro universitario de Formación de la Policía Nacional de Ávila.
 - 🛠 **Certificaciones:** Bootcamp en ciberseguridad y otro en Data Scientist en el centro de formación "TheBridge", Certificacion de Ciberseguridad de Google y actualmente repasando para la certificación de **eJPT**
 
 ---
@@ -24,8 +24,8 @@ Apasionado por el mundo tecnológico, habiendo comenzado en programación en Bas
 
 ---
 
-- **Lenguajes de programación:** Python 🐍, Java ☕, Bash 🖥️.
-- **Ciberseguridad:** Identificacion y enumeración de artilugios,exploración, explotación de vulnerabilidades usando, si es necesario tecnicas de PortFoward, Tunnelling y pivoting, escalada de privilegios y persistencia en sistemas Windows y Linux..
+- **Lenguajes de programación:** Python 🐍, Bash 🖥️.
+- **Ciberseguridad:** Identificacion y enumeración, exploración, explotación de vulnerabilidades usando, si es necesario, de tecnicas de PortFoward, Tunnelling y pivoting, escalada de privilegios y persistencia en sistemas Windows y Linux.
 - **Virtualización:** VirtualBox, VMware, Docker.
 - **Redes:** Configuración de VPNs y proxys.
 
@@ -37,11 +37,12 @@ Apasionado por el mundo tecnológico, habiendo comenzado en programación en Bas
 ---
 Un repositorio de un trabajo de Investigación y Análisis Exploratorio de Datos se centra en las zonas mas afectadas por ciberataques de tipo DDoS(Denegacion de Servicio Distribuido), Malware e intrusión a nivel mundial.
 
+---
 🔗 [Digital_Defense](https://github.com/vicevil77/Digital_Defense)
 ---
 Un repositorio  de Investigacion para desarrollar un modelo de Machine Learning/Deep Learning (ML/DL) para conseguir el mejor modelo de predicción, si una conexión es o no maliciosa, teniendo en cuenta los datos técnicos obtenidos de dispositivos SIEM de una red, utilizando para ello, un conjunto de datos de 25 millones de registros y 19 columnas, sin llegar a la parte de producción/industrialización.
 
-
+---
 ## 📫 Conecta conmigo
 
 <div align="center">
@@ -50,5 +51,5 @@ Un repositorio  de Investigacion para desarrollar un modelo de Machine Learning/
   </a>
 
 ---
-
-_aprendendiendo y compartiendo el conocimiento._ ¡Gracias por pasarte por mi perfil! 😄
+¡Gracias por pasarte por mi perfil! 😄
+---
