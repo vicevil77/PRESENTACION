@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 💻 **Sistema operativo principal:** Arch Linux personalizado y windows, segun las necesidades del sistema para auditar.
+- 💻 **Sistemas operativos:** Arch Linux personalizado y Windows, segun las necesidades del sistema a auditar.
 - 🎓 **Formacion:** Grado Universitario en Ciencias Policiales por el Centro universitario de Formación de la Policía Nacional de Ávila.
 - 🛠 **Certificaciones:** Bootcamp en ciberseguridad y otro en Data Scientist en el centro de formación "TheBridge", Certificacion de Ciberseguridad de Google y actualmente repasando para la certificación de **eJPT**
 
