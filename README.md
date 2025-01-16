@@ -33,11 +33,11 @@ Apasionado por el mundo tecnológico, habiendo comenzado en programación en Bas
 
 ## 📂 Proyectos destacados
 ---
-### 🔗 [https://github.com/vicevil77/EDA_CYBERWARFARE](https://github.com/vicevil77/EDA_CYBERWARFARE)
+🔗 [EDA_CYBERWARFARE](https://github.com/vicevil77/EDA_CYBERWARFARE)
 ---
 Un repositorio de un trabajo de Investigación y Análisis Exploratorio de Datos se centra en las zonas mas afectadas por ciberataques de tipo DDoS(Denegacion de Servicio Distribuido), Malware e intrusión a nivel mundial.
 ---
-### 🔗 [https://github.com/vicevil77/Digital_Defense]
+🔗 [Digital_Defense](https://github.com/vicevil77/Digital_Defense)
 ---
 Un repositorio  de Investigacion para desarrollar un modelo de Machine Learning/Deep Learning (ML/DL) para conseguir el mejor modelo de predicción, si una conexión es o no maliciosa, teniendo en cuenta los datos técnicos obtenidos de dispositivos SIEM de una red, utilizando para ello, un conjunto de datos de 25 millones de registros y 19 columnas, sin llegar a la parte de producción/industrialización.
 ---
