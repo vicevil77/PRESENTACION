@@ -47,8 +47,15 @@ Un repositorio  de Investigacion para desarrollar un modelo de Machine Learning/
 
 <div align="center">
   <a href="https://github.com/Vicevil77">
-    <img src="https://img.shields.io/github/followers/Vicevil77?label=Follow&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/victormbar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
+
 
 ---
 ¡Gracias por pasarte por mi perfil! 😄
