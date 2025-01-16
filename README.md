@@ -10,7 +10,7 @@
 
 - 💻 **Sistemas operativos:** Arch Linux personalizado y Windows, segun las necesidades del sistema a auditar.
 - 🎓 **Formacion:** Grado Universitario en Ciencias Policiales por el Centro universitario de Formación de la Policía Nacional de Ávila.
-- 🛠 **Certificaciones:** Bootcamp en ciberseguridad y otro en Data Scientist en el centro de formación "TheBridge", Certificacion de Ciberseguridad de Google y actualmente repasando para la certificación de **eJPT**
+- 🛠 **Certificaciones:** Bootcamp en ciberseguridad y otro en Data Scientist en el centro de formación "TheBridge", Certificación de Ciberseguridad de Google y actualmente repasando para la certificación de **eJPT**
 
 ---
 Apasionado por el mundo tecnológico, habiendo comenzado en programación en Basic (....spectrum 48K....), habiendo estudiado y ejercido durante una década y un lustro en seguridad pública, de los cuales, una década de jefe de grupo de investigación en cibercrimen.
