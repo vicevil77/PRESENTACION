@@ -32,10 +32,10 @@ Apasionado por el mundo tecnológico, habiendo comenzado en programación en Bas
 ---
 
 ## 📂 Proyectos destacados
-
+---
 ### 🔗 [https://github.com/vicevil77/EDA_CYBERWARFARE]
 ---
-Un repositorio de un trabajo de Investigación y Análisis Exploratorio de Datos se centra en las zonas mas afectadas por ciberataques de tipo DDoS(Denegacion de Servicio Distribuido), Malware e intrusión a nivel mundial.
+**Un repositorio de un trabajo de Investigación y Análisis Exploratorio de Datos se centra en las zonas mas afectadas por ciberataques de tipo DDoS(Denegacion de Servicio Distribuido), Malware e intrusión a nivel mundial.**
 ---
 ### 🔗 [https://github.com/vicevil77/Digital_Defense]
 ---
